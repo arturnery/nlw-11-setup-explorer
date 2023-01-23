@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Habits é um app que ajuda a pessoa no dia a dia a resgistrar todas as suas atividades, podendo assim ter um controle de seus hábitos e objetivos.
 
+- [Visite o projeto online](https://arturnery.github.io/nlw-11-setup-explorer/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/UPgslV8HpBkpWUawX5zGcl/Habits-(e)-(Community)?node-id=75%3A128&t=rIYw9cDM1okxt0Xv-0>) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
